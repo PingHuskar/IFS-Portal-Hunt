@@ -702,6 +702,22 @@ const PORTALS = [
 {portalName:'Black Anchor Golden Chains',geo: [12.919847,100.890139],img: '9l0qVdqAtigne9R92vmBa3rmM97-Tx5sc7hZHbpfa8ulEBYh7k7xied7ujIT0Q_BGk7PnWSbsjvbz7k94ufS7hYWRw'},
 {portalName:'Big Boat Building',geo: [12.919895,100.889937],img: 'WtRDO6AMbuSEBzoJ6yOfXuBFuQJHHyf343CVo623IVMkefMhhIrHDfO3MLtoob8b1Gnd6dMAUHbvkuUOA-4XYX6U2w6X'},
 {portalName:'Budha waterfall',geo: [12.918557,100.894701],img: '7G-usJmvuo5z0XTp6LPpxUySqgohbh82THDsOyDcBvLkV4iis3EO3nsheS-iS0D44ShqsUyTvDDgwJOhAezf1y8gUtTD'},
+{portalName:'ศาล แจ่มจำรัส',geo: [12.894086,100.889252],img: 'QF_z0EFuNnTX3xkcxzLDKGNwEX8BXp-rLBkeF8rpHHl5WJwPpTPfcVLcMyQH2FVf30uisg-_nczHVx3dXaW0TyPR-Ys'},
+{portalName:'Temple Horse and Elefant',geo: [12.890719,100.884612],img: 'N7X3ShaKkMYQG8vWQLJan4P5a1YG_H_1wyec-Jf6ZPgCqk1tA5dd9KawJT6eqJp70tUavjEoPe2cCbapgJaW6S2_HCc7'},
+{portalName:'Thai Girl',geo: [12.890445,100.889426],img: 'qJmc0b2ZQzPZ1pBAPIZmSYRdPAXxejPpAyfGKTJZHnqz0iljzNtkm0PzB9XFcfKMXJk8t-BJ0SDuCit3lbSbSJ3W1g'},
+{portalName:'Black&small fountain',geo: [12.889605,100.885553],img: '_sb5abmDpTWeN7uuv1iOTRz0Pp2bR2Bjlk6lzptJrnuvYSEDoBok5-Ou9e4R5-plMAEAv2Ng0UiBOPW7_PVVsd4mHTPeidIrrGkkbn9nwQ'},
+{portalName:'Breeze Box喫茶店',geo: [12.889486,100.88573],img: 'IFyvf_s5FRbm9egJu6vdYSE2HShFeulOfsS9mkz08eAJPP30XQKxxgzTgWIoeWlYXBsylLqRwglJsQuRFYOI7MmUrsDmvLbgPDGip4u0'},
+{portalName:'Toteマーケット祠',geo: [12.88927,100.88318],img: 'MIuzKASm13X7CBFTFrMP3XQNW02fuknCSV4B5ujAyEutuQ0NEaukLNct1rvfSu5-HUchWz-7wIm2h5f4cyia3Dm4kLyn6T4VWw8JGOGo'},
+{portalName:'Nice Temple',geo: [12.888816,100.881813],img: '0NRxq7Mr-B9YNS6oXGC7YdXNek6nJaFRtqek--2mM0oyZP6sQE0GpU7xyocsDIK1C9tFSnDzO721u2H64NTWEc337uw'},
+{portalName:'交差点の守神',geo: [12.888241,100.881812],img: 'YOS6jA4vgwrqtKy46CSxMXXg1ZWNgdwNzGi8g-MRXk7T2hQeRQ1CLZUuN3mRFTR15lAFqj0ES-xBxV7UHmTFkFUh3TU'},
+{portalName:'子供達のプール',geo: [12.88772,100.883908],img: '-ahHnuIMayJdh7lraR5o4ooxIuK9VmMM3Xsw_tnLsNjbyciJftUEH8KrQRwCqs4xHub-8wbFKYuMThjgC0XU-5GaJbDhRKI0NE7B8X-f'},
+{portalName:'Titanic Pattaya',geo: [12.887386,100.883309],img: 'BkiQEm4xLex9n4HWYybwUjzXQViFnqiFAuACEDGwyzVao4Gdn9ViFhV5abht8yLTcDfVfda6YIkmX5amqOxnLL6eZCLZ'},
+{portalName:'パンダちゃん',geo: [12.886957,100.882496],img: '5mYCTxYqUFb7dOlXaXfRPv3_jE3WaPG51gKjeA5yKBRm2cN0F3kjFj7YWGiRyNvP7mCxplVq2JJLLO_0rKHWhoiZSJ1cLLsxFEk32yZY'},
+{portalName:'บ้านฟ้าริมหาด Baan Fah Rim Hadd Village',geo: [12.886188,100.883613],img: 'cq6UC_U1xnsmwUqBhRJ6Ih0ig1ebylS97By_PDQ9-uwAALRs2rG83Z4KUdGAbKuF59G_kz5nO-AUzoPdEIqNHruTjgZ-ySBPcPZlQWrd'},
+{portalName:'Jomtien Temple',geo: [12.885719,100.88021],img: 'UPlMCIlloHyMrN3zcIdB61G7ZS5YWVXUCF6TgRiFYG3dlNCryKhISuMSS-gq8fv5GQQ6eOAOB9H3LF_EHjC4R1q33Cd2'},
+{portalName:'House Of Spirits With A Tree',geo: [12.886365,100.87804],img: 'QdvgMtZ_Ob79oJGMAKPDdQwMBtURCG5kcpyvS4aKXEmjuoJ6rbDfOIP1-70HT3s_0fxq56QMngI3E-wBSIGcKFTzdQ'},
+{portalName:'Jomtien Beach Spirit Place',geo: [12.887897,100.876892],img: '3fSqZpNDzof-aQFInntP7qpTyLRmsQqupSG49qpjJ1J72b-U542nvWi8RZf32vUe6k_RNVzddU8J9L5rm3QJckm7cg'},
+{portalName:'Street Temple',geo: [12.889255,100.875664],img: 'gJ_9TeNtLNz7RBt5xfV5k98Qr4BeyB1n8FT4sodGwPU4EhQA4hXSBut7rRXAqLlevuWIVdiL46A535ScDbQIdv7pVKs'},
 ]
 
 // console.log(PORTALS.length)
