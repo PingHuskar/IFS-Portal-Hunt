@@ -31,3 +31,8 @@ input {
     width: 60%;
     height: 60%;
 } */
+
+#result {
+    margin-top: 20px;
+    width: 500px;
+}
