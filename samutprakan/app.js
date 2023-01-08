@@ -177,6 +177,7 @@ const decodeLatLngAndAddtoMap = (key) => {
         <p>${key.portalAddress}</p>
         </a>`)
     .addTo(map)
+    
     L.donut([lat,lng], {
                     radius: 40,
                     innerRadius: 0,
