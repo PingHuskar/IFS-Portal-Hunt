@@ -28,8 +28,6 @@ for (let portal of PORTALS) {
     .bindPopup(
         `
         <h2>${portal.portalName}</h2>
-        <p>https://intel.ingress.com/intel?ll=${portal.geo[0]},${portal.geo[1]}&z=18&pll=${portal.geo[0]},${portal.geo[1]}</p>
-        
         <a href="https://intel.ingress.com/intel?ll=${portal.geo[0]},${portal.geo[1]}&z=18&pll=${portal.geo[0]},${portal.geo[1]}" target="_blank">
         <img src="https://lh3.googleusercontent.com/${portal.img}">
         </a>`)
